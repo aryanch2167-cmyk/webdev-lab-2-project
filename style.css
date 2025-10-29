@@ -1,0 +1,45 @@
+Header {
+    background-color: blue;
+    position: relative;
+    color: beige;
+}
+
+#meriphoto {
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+}
+
+input[type="Submit"] {
+    color: white;
+    background-color: blue;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border: 5px;
+    border-color: blue;
+}
+
+th {
+    background-color: blue;
+}
+
+h1 {
+    margin-top: 0cm;
+}
+
+footer {
+    background-color: blue;
+}
+button {
+    position: absolute;
+    Right:0px;
+    background-color: black;
+    color: white ;
+}
